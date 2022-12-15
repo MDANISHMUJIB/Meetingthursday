@@ -1,6 +1,6 @@
 myFolder_38 = 'D:\NCAI-Neurocomputation Lab\Custom tDCS Experiments\MindFoster_tDCS_Paper\Data\test\38-GND original rec\'
 Files_dir_38_EC =dir(fullfile(myFolder_38,'*.set'));
-
+%hbv
 EEG_Data_38_EC = {}
 
 for k = 1:(length(Files_dir_38_EC))
